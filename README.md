@@ -1,0 +1,2 @@
+# Pengolahan-Data-Citra-Wajah-Dengan-Variasi-Ekspresi-
+Deep Learning Image Classification (CNN, VGG16, MobileNetV2) Mengembangkan dan membandingkan tiga model deep learning untuk klasifikasi citra menggunakan CNN custom, VGG16, dan MobileNetV2. Melakukan pelatihan, validasi, serta analisis performa menggunakan akurasi dan confusion matrix. Memanfaatkan transfer learning untuk meningkatkan akurasi model
